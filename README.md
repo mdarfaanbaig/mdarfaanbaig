@@ -1,32 +1,36 @@
-### Hi there 👋
+👋 Hi, I'm Arfaan Baig
+🚀 Data Engineer & BI Enthusiast | Transforming Raw Data into Scalable Solutions
 
-# 👋 Hello, I'm Arfaan!
-
-Welcome to my GitHub profile! I'm a final year B.Tech student in Computer Science Engineering at PES University, passionate about data science, machine learning and web development. I have a strong foundation in various technical skills, including Python, SQL, Tableau, Excel, Statistics, business intelligence, data analysis, and data visualization.
-
-## 🚀 About Me
-
-- 🔭 Currently pursuing my B.Tech in Computer Science Engineering.
-- 🌐 Eagerly exploring the realms of data science and machine learning.
-- 💡 Passionate about leveraging technology to solve real-world problems.
-- 📚 Actively engaged in coursework, personal projects, and online certifications to enhance my skills.
-- 🔍 Actively seeking new opportunities and collaborations in the field of ML, DS & Web Dev.
+🚀 About Me
+🔹 Data Engineer & BI Enthusiast interested in ETL, Big Data, and Cloud Technologies
+🔹 Enjoy working on data pipelines, automation, and business insights
+🔹 Have worked on web development projects using the MERN stack
+🔹 Currently learning PySpark, Kafka, Data Warehousing, and Cloud Analytics
+🔹 Always open to collaborating on data projects and solving real-world problems
 
 
-## 🛠️ Skills
+🛠 Tech Stack
+🗄️ Languages & Databases
+Python, SQL, MySQL, MongoDB
 
-- **Programming:** Python, HTML, CSS
-- **Database:** SQL
-- **Visualization:** Tableau, Excel, Matplotlib, Seaborn
-- **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn
-- **Tools:** Jupyter Notebook, Git
+🔥 Data Tech
+Spark (PySpark), Kafka, Hadoop, Airflow, Snowflake, Databricks, Data Warehousing, Data Modeling
 
-## 📊 Projects
+☁ Cloud Services
+Azure Data Factory, Azure SQL, Synapse, Blob Storage, BigQuery
 
-- [Black-Friday-Sales-Data-Analysis ](https://github.com/mdarfaanbaig/Black-Friday-Sales-Data-Analysis) 
-- [Human-Activity-Recognition-Using-Smartphone-Data ](https://github.com/mdarfaanbaig/Human-Activity-Recognition-Using-Smartphone-Data) 
-- [Capstone-Project-Algorithm-Visualization-for-Student-Performance ](https://github.com/mdarfaanbaig/Capstone-Project-Algorithm-Visualization-for-Student-Performance) 
+📊 BI & Analytics
+Tableau, Power BI, Excel, Seaborn, NumPy, Pandas
+
+⚙️ DevOps
+Linux, Git, GitHub Actions, Docker, Kubernetes
+
+
+🚀 Featured Projects
+
+📌 [csv2database](https://github.com/mdarfaanbaig/csv2database) – A Python package for seamless CSV-to-MySQL integration
+📊 [Real-Time Movie Booking Analytics](https://github.com/mdarfaanbaig/-Movie-Booking-CDC-Data---Real-Time-Aggregation-in-Snowflake-Dynamic-Table) – Built on Snowflake & Streamlit with real-time CDC pipeline
+🛠 [Flight Booking Data Pipeline](https://github.com/mdarfaanbaig/Flight-Booking_Airflow_CICD) – Automated ETL with Airflow & PySpark on Google Cloud
 
 Explore more in my [Repositories](https://github.com/mdarfaanbaig?tab=repositories).
 
@@ -36,6 +40,4 @@ Explore more in my [Repositories](https://github.com/mdarfaanbaig?tab=repositori
 
 - [LinkedIn](https://www.linkedin.com/in/arfaan-baig-a34841203/)
 
-
-I'm open to insights, advice, and opportunities that will help me on this exciting journey. Let's connect and explore the exciting world of machine learning and data science together!
 
