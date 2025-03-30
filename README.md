@@ -4,11 +4,11 @@
 ---
 
 ## 🚀 About Me  
-- 🔹 Data Engineer & BI Enthusiast interested in **ETL, Big Data, and Cloud Technologies**  
-- 🔹 Enjoy working on **data pipelines, automation, and business insights**  
-- 🔹 Have worked on **web development projects using the MERN stack**  
-- 🔹 Currently learning **PySpark, Kafka, Data Warehousing, and Cloud Analytics**  
-- 🔹 Always open to **collaborating on data projects and solving real-world problems**  
+ 🔹 Data Engineer & BI Enthusiast interested in **ETL, Big Data, and Cloud Technologies**  
+ 🔹 Enjoy working on **data pipelines, automation, and business insights**  
+ 🔹 Have worked on **web development projects using the MERN stack**  
+ 🔹 Currently learning **PySpark, Kafka, Data Warehousing, and Cloud Analytics**  
+ 🔹 Always open to **collaborating on data projects and solving real-world problems**  
 
 ---
 
